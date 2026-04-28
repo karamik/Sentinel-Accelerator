@@ -141,10 +141,10 @@ Error is measured against a fully resolved reference solution.
 If you use Sentinel Accelerator in your research, please cite:
 
 ```bibtex
-@software{SentinelAccelerator2025,
+@software{SentinelAccelerator2026,
   author = {TOTAL Protocol Team},
   title = {Sentinel Accelerator: MHD simulation acceleration with uncertainty quantification},
-  year = {2025},
+  year = {2026},
   doi = {10.5281/zenodo.xxxxxxx},
   url = {https://sentinel.totalprotocol.com}
 }
