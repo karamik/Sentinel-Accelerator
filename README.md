@@ -128,7 +128,7 @@ Error is measured against a fully resolved reference solution.
 
 ## 📞 Contact & Trial
 
-- **Request a demo package** – [sentinel@totalprotocol.com](mailto:sentinel@totalprotocol.com)  
+- **Request a demo package** – [totalprotocol@proton.me](mailto:sentinel@totalprotocol.com)  
 - **Schedule a technical presentation** – we will run Sentinel on *your* test case.  
 - **Institution licence** – available immediately.
 
